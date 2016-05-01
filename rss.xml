@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Amalga]]></title>
         <description><![CDATA[Amalga]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amalga/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 19:08:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 19:15:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amalga/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f564d66-6310-4e80-94f4-5045cd88401b.jpg">]]></description>
+            <link>https://thegrid.ai/amalga/b885d749-4587-404d-9437-3cb35d30312a/index.html</link>
+            <guid isPermaLink="false">b885d749-4587-404d-9437-3cb35d30312a</guid>
+            <pubDate>Sun, 01 May 2016 19:14:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e58d3ffe-954e-4389-b683-64527b696cd4.jpg">]]></description>
-            <link>undefinedamalga/index.html</link>
+            <link>https://thegrid.ai/amalga/amalga/index.html</link>
             <guid isPermaLink="false">397ddf98-2fdf-4565-a1de-60834b8a3789</guid>
             <pubDate>Sun, 01 May 2016 19:08:10 GMT</pubDate>
         </item>
