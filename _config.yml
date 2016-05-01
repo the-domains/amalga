@@ -1,0 +1,28 @@
+name: Amalga
+favicon: null
+layout_spectrum: 0.9928455539047718
+typography_spectrum: 0.999385790200904
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9933827833738178
+  lightness: 0.8746099630370736
+  saturation: 0.3702771745156497
+  rhythmicContrast: 0.2046791126485914
+purpose: []
